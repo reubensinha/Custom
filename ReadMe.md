@@ -3,4 +3,4 @@
 ## Pandoc Support
 
 ### pandoc.nss
-- Allows conversions between various document formats using via Pandoc
+- Allows conversions between various document formats using via [Pandoc](https://pandoc.org/).
